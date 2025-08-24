@@ -1,0 +1,22 @@
+# Build and binaries
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.DS_Store
+
+# Log files
+*.log
+
+# SQLite database (optional: if you don't want to include the local DB)
+*.db
+*.sqlite
